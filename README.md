@@ -1,16 +1,58 @@
-# React + Vite
+###Student Grade Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application built using **Class-Based Components** to manage student records, grades, and performance. This project demonstrates React lifecycle methods, state management, controlled forms, and event handling in legacy React architecture.
 
-Currently, two official plugins are available:
+#### Features
+- Add new students with marks
+- Edit student marks
+- Delete students
+- Calculate total marks and percentage
+- Display Pass/Fail status
+- Grade calculation
+- Form validation
+- Filter students by status
+- Sort students by marks
+- Responsive UI
+- Built entirely using Class Components
+- Lifecycle methods:
+  - componentDidMount()
+  - componentDidUpdate()
+  - componentWillUnmount()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+#### Technologies
+- React.js (Class Components)
+- JavaScript (ES6+)
+- CSS3 / Tailwind CSS
 
-## React Compiler
+#### Live Link
+https://react-essentials-assignment-7awr-qyhn7vqv7.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+Also update the Learning Objectives section to include class component concepts:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Learning Objectives
+
+This assignment demonstrates:
+
+- React Components
+- JSX
+- Props
+- State Management with Hooks
+- State Management with Class Components (`this.state`)
+- Event Handling
+- Controlled Forms
+- Conditional Rendering
+- List Rendering
+- API Integration
+- Fetch API & Async/Await
+- React Lifecycle Methods
+  - componentDidMount()
+  - componentDidUpdate()
+  - componentWillUnmount()
+- Component Reusability
+- Responsive Frontend Development
+- Environment Variables (Vite)
+- TailwindCSS
+- Sorting & Filtering Data
+- Form Validation
