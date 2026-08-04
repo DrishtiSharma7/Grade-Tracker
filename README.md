@@ -1,5 +1,6 @@
-**Student Grade Tracker
-**
+**Student Grade Tracker**
+
+
 A React application built using **Class-Based Components** to manage student records, grades, and performance. This project demonstrates React lifecycle methods, state management, controlled forms, and event handling in legacy React architecture.
 
 #### Features
