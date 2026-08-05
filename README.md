@@ -26,7 +26,7 @@ A React application built using **Class-Based Components** to manage student rec
 - CSS3 / Tailwind CSS
 
 #### Live Link
-https://react-essentials-assignment-7awr-qyhn7vqv7.vercel.app/
+https://react-essentials-assignment-8qjw.vercel.app/
 
 ---
 
