@@ -1,9 +1,12 @@
-**Student Grade Tracker**
+# Student Grade Tracker
 
 
 A React application built using **Class-Based Components** to manage student records, grades, and performance. This project demonstrates React lifecycle methods, state management, controlled forms, and event handling in legacy React architecture.
 
-#### Features
+## Live Link
+Link: https://react-essentials-assignment-8qjw.vercel.app/
+
+## Features
 - Add new students with marks
 - Edit student marks
 - Delete students
@@ -20,13 +23,10 @@ A React application built using **Class-Based Components** to manage student rec
   - componentDidUpdate()
   - componentWillUnmount()
 
-#### Technologies
+## Technologies
 - React.js (Class Components)
 - JavaScript (ES6+)
 - CSS3 / Tailwind CSS
-
-#### Live Link
-https://react-essentials-assignment-8qjw.vercel.app/
 
 ---
 
